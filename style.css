@@ -238,17 +238,6 @@ section {
   text-transform: uppercase;
 }
 .about-photo { aspect-ratio: 3/4; border-radius: 16px; overflow: hidden; }
-.about-photo .placeholder-box {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  gap: 0.5rem;
-  border-radius: 16px;
-}
-.photo-icon { font-size: 2.5rem; margin-bottom: 0.5rem; opacity: 0.3; }
 
 .about-photo img {
   width: 100%;
