@@ -11,8 +11,8 @@
   --accent1:  #7c6aff;   /* สีม่วง — Data */
   --accent2:  #ff6a6a;   /* สีแดง — Game */
   --accent3:  #6affb8;   /* สีเขียว — AI */
-  --text:     #e8e6f0;
-  --muted:    #6b6880;
+  --text:     #ffffff;        /* เปลี่ยนจาก #e8e6f0 เป็นขาวสว่างขึ้น */
+  --muted:    #a09db8;        /* เปลี่ยนจาก #6b6880 เป็นสีอ่อนขึ้น */
   --card:     #13131e;
 }
 
